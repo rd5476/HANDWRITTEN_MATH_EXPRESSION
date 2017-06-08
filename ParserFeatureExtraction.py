@@ -13,7 +13,6 @@ Output:
 ParserFeatures - .csv file containing features extracted for Parser classifier 
 
 Author
-Ritvik Joshi
 Rahul Dashora
 
 '''
