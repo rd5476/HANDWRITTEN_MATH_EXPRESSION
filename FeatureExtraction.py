@@ -12,7 +12,6 @@ SegmentFeatures - .csv file containing features extracted for segmentation class
 SymbolFeatures - .csv file containing features extracted for Symbol classifier
 
 Author
-Ritvik Joshi
 Rahul Dashora
 '''
 
