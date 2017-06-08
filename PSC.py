@@ -5,7 +5,6 @@ Input : All stroke information
 Output : Shape Context Feature of size (30x3)
 
 Author
-Ritvik Joshi
 Rahul Dashora
 """
 
