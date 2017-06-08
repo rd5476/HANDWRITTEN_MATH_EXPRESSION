@@ -9,7 +9,6 @@ Line of Sight graph with 1 indicating as visibility between the strokes/symbol
 
 Author
 Rahul Dashora
-Ritvik Joshi
 """
 
 
