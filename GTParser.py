@@ -14,7 +14,6 @@ Output:
 .lg files - .lg files in the Output directory for all the .inkml file present in Test Directory
 
 Authors:
-Ritvik Joshi
 Rahul Dashora
 """
 
