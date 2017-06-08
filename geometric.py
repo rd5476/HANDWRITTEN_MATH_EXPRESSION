@@ -6,7 +6,6 @@ Input: Stroke pair
 Output: geometri feature
 
 Author
-Ritvik Joshi
 Rahul Dashora
 
 '''
