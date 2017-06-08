@@ -7,7 +7,6 @@ Output
 Symbol Label
 
 Author 
-Ritvik Joshi
 Rahul Dashora
 """
 import numpy as np
